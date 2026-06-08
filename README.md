@@ -27,6 +27,8 @@ A feature-rich desktop-based task management application built with Python's Tki
 ## 📸 Screenshots
 
 Add project screenshots here.
+<img width="1920" height="1200" alt="Screenshot 2026-06-08 133326" src="https://github.com/user-attachments/assets/e8f5e452-b8d6-4ee6-8c90-904b0e7c5b06" />
+<img width="1920" height="1200" alt="Screenshot 2026-06-08 133350" src="https://github.com/user-attachments/assets/99100fd0-38e6-40bb-8096-be240098de1c" />
 
 ---
 
